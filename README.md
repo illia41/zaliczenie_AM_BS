@@ -5,9 +5,9 @@ Strona internetowa umożliwiająca rezerwację biletów oraz zamawianie jedzenia
 
 ## Podgląd
 
-[Zobacz na GitHub Pages](https://twoja-nazwa-uzytkownika.github.io/nazwa-repozytorium/)
+[Zobacz na GitHub Pages](https://illia41.github.io/zaliczenie_AM_BS/)
 
-![Zrzut ekranu strony głównej](./screenshot.png)
+![Zrzut ekranu strony głównej](.)
 
 ## Spis treści
 
